@@ -1,0 +1,55 @@
+.body {
+    background: black;
+    height: 1000px;
+    width: 100%;
+    margin-top: -30px;
+}
+
+.pos {
+  position:relative;
+}
+
+.welcome {
+  height: 700px;
+  background: url(../assets/color.png) no-repeat center 0;
+  background-size: 1000px 700px;
+}
+
+.h1 {
+  color: #ffffff;
+  margin-top: -600px;
+  position:absolute;
+  margin-left: 100px;
+  font-family: "微软雅黑";
+  /* color: #ed5a65; */
+  font-size: 20px
+  /* float: left; */
+}
+
+.span {
+  color: #ed5a65;
+  margin-top: -400px;
+  position:absolute;
+  font-size: 15px;
+  margin-left: 100px;
+  font-family: "微软雅黑";
+}
+
+.h {
+  color: #ffffff;
+  margin-top: -350px;
+  position:absolute;
+  font-size: 30px;
+  margin-left: 100px;
+  font-family: "微软雅黑"
+}
+
+.h2 {
+  color: #ffffff;
+  margin-top: -300px;
+  position:absolute;
+  font-size: 30px;
+  margin-left: 100px;
+  font-family: "微软雅黑"
+}
+
