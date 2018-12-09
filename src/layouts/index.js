@@ -3,7 +3,7 @@ import styles from './index.less';
 
 function BasicLayout(props) {
   return (
-    <div className={styles.normal}>
+    <div>
       <h1></h1>
       { props.children }
     </div>
